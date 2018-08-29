@@ -1,0 +1,24 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\GameCtrl.cs">
+    <Files>
+      <File FileName="Assets\Scripts\PlayerAudio.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Loudspeaker.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GameCtrl.cs" Line="90" Column="71" />
+      <File FileName="Assets\Scripts\GameData.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\AudioCtrl.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\UIController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\DestroyGameobject.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PazPanelCtrl.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\SoundBtnCtrl.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\SpawnNumber.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\basketCtrl.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\DontDestroy.cs" Line="23" Column="2" />
+      <File FileName="Assets\Scripts\NumberCtrl.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
