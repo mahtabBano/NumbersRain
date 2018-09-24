@@ -12,7 +12,7 @@ PlayerSettings:
   accelerometerFrequency: 60
   companyName: CodeToInspire
   productName: NubmersRain
-  defaultCursor: {fileID: 2800000, guid: 20a12e2a17b1aa74a808bb7e9bf872b7, type: 3}
+  defaultCursor: {fileID: 2800000, guid: df2ca391bfea11e4d89cbe96147af48f, type: 3}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
   m_ShowUnitySplashScreen: 1
@@ -233,33 +233,33 @@ PlayerSettings:
   - m_BuildTarget: Android
     m_Icons:
     - serializedVersion: 2
-      m_Icon: {fileID: 2800000, guid: 20a12e2a17b1aa74a808bb7e9bf872b7, type: 3}
+      m_Icon: {fileID: 2800000, guid: df2ca391bfea11e4d89cbe96147af48f, type: 3}
       m_Width: 192
       m_Height: 192
     - serializedVersion: 2
-      m_Icon: {fileID: 2800000, guid: 20a12e2a17b1aa74a808bb7e9bf872b7, type: 3}
+      m_Icon: {fileID: 2800000, guid: ace93b2df25d3f547892ae6b999e2484, type: 3}
       m_Width: 144
       m_Height: 144
     - serializedVersion: 2
-      m_Icon: {fileID: 2800000, guid: 20a12e2a17b1aa74a808bb7e9bf872b7, type: 3}
+      m_Icon: {fileID: 2800000, guid: a266ff7f24bf8cb4d92327c987726b75, type: 3}
       m_Width: 96
       m_Height: 96
     - serializedVersion: 2
-      m_Icon: {fileID: 2800000, guid: 20a12e2a17b1aa74a808bb7e9bf872b7, type: 3}
+      m_Icon: {fileID: 2800000, guid: 1d5157cd6f508654b8027b55a5f8b343, type: 3}
       m_Width: 72
       m_Height: 72
     - serializedVersion: 2
-      m_Icon: {fileID: 0}
+      m_Icon: {fileID: 2800000, guid: 410ce3c72e6c2594cb8d0002ce6ec9db, type: 3}
       m_Width: 48
       m_Height: 48
     - serializedVersion: 2
-      m_Icon: {fileID: 0}
+      m_Icon: {fileID: 2800000, guid: e7f23239e50b554488830e6d8282df24, type: 3}
       m_Width: 36
       m_Height: 36
   - m_BuildTarget: 
     m_Icons:
     - serializedVersion: 2
-      m_Icon: {fileID: 2800000, guid: 20a12e2a17b1aa74a808bb7e9bf872b7, type: 3}
+      m_Icon: {fileID: 2800000, guid: df2ca391bfea11e4d89cbe96147af48f, type: 3}
       m_Width: 128
       m_Height: 128
   m_BuildTargetBatching: []
